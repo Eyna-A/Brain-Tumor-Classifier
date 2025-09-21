@@ -5,7 +5,7 @@ The model is trained with TensorFlow/Keras and achieves around 88% accuracy on t
 ## Run on Google Colab
 Click the badge below to open the notebook directly in Google Colab:
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Eyna123/BrainTumorDetection/blob/main/brain_tumor.ipynb)
+[![Open In Colab](https://colab.research.google.com/drive/1xmfMh0kGHdEaKBGLSpMrjHkTDFlRiRgZ?usp=sharing)
 
 
 ## Dataset
